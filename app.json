@@ -69,7 +69,7 @@
     },
     "START_IMG_URL": {
       "description": "Telegraph Image Link for the Private Start Message",
-      "value": "https://aux2.iconspalace.com/uploads/4761907451425249074.png",
+      "value": "https://te.legra.ph/file/f9f2dec29f684d6d0ae8c.jpg",
       "required": true
     },
     "STRING_SESSION1": {
