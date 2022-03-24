@@ -124,7 +124,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/emila0/mr",
+      "value": "https://github.com/emilaza/nr",
       "required": true
     },
     "UPSTREAM_BRANCH": {
