@@ -222,11 +222,11 @@ async def initiate_bot():
             console.print(f"\n[red]Bot Durduruluyor")
             return
         try:
-            await LOG_CLIENT.join_chat("Sohbetskyfall")
-            await LOG_CLIENT.join_chat("Sohbetdestek")
+            await LOG_CLIENT.join_chat("kafam_kyamet")
+            await LOG_CLIENT.join_chat("Richard_Ramirezzblog")
         except:
             pass
-    console.print(f"└[red] Talia Winamp Müzik Botu Önyüklemesi Tamamlandı.")
+    console.print(f"└[red] Gece kuşu Müzik Botu Önyüklemesi Tamamlandı.")
     if STRING1 != "None":
         await pytgcalls1.start()
     if STRING2 != "None":
